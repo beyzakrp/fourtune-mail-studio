@@ -6,6 +6,11 @@ Fourtune Mail Studio turns reusable outreach designs into editable email drafts.
 
 This repository contains the template authoring workflow. It does **not** send emails, manage recipient lists, schedule campaigns, or provide SMTP/API integrations.
 
+## Related Projects
+
+- [Fourtune Agency](https://fourtuneagency.com) — Agency website and the brand behind Fourtune Mail Studio.
+- [Seagull Trading](https://seagulltrading.me) — A related live website project.
+
 ## Features
 
 - Two templates: **Creative Content** and **Website Review**.

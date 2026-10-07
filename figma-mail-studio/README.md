@@ -2,6 +2,11 @@
 
 İki mevcut e-posta şablonunu kod yazmadan düzenlemek için hazırlanmış bağımsız Figma Design eklentisi. Sunucu veya API anahtarı gerekmez. Orijinal HTML dosyaları değiştirilmez.
 
+## İlgili projeler
+
+- [Fourtune Agency](https://fourtuneagency.com) — Fourtune ajansının web sitesi.
+- [Seagull Trading](https://seagulltrading.me) — İlgili web projesi.
+
 ## Kurulum
 
 1. Bu klasördeki **setup.html** dosyasını tarayıcıda açın.

@@ -1,0 +1,16 @@
+{
+  "name": "4tune Mail Studio",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "editorType": [
+    "figma"
+  ],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": [
+      "*"
+    ],
+    "reasoning": "Load user-provided brand images and fonts from their public HTTPS URLs for email previews and Figma image layers."
+  }
+}

@@ -1,0 +1,40 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+secrets*.json
+
+# Private campaign data and exported drafts
+data/
+customers/
+contacts/
+recipients/
+logs/
+exports/
+drafts/
+*taslaklar*.json
+*.csv
+*.xlsx
+*.log
+*.sqlite*
+*.db
+
+# Dependencies, caches, local tooling and old distribution copies
+node_modules/
+__pycache__/
+.venv/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.zip
+*.before-fix
+4tune-mail-studio/
+
+# Browser test output (run browser-test before figma-contract-test)
+figma-mail-studio/test-export.html
+figma-mail-studio/test-scene.json
+figma-mail-studio/preview.png
